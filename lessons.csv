@@ -1,0 +1,12 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,Welcome,Intro,welcome/intro,info-circle,/lessons/welcome/intro,""
+01B,Welcome,What is SQLite?,welcome/what-is-sqlite,info-circle,/lessons/welcome/what-is-sqlite,""
+02A,Running SQLite,Installing SQLite,running-sqlite/installing-sqlite,person-running,/lessons/running-sqlite/installing-sqlite,""
+02B,Running SQLite,Getting Started,running-sqlite/getting-started,person-running,/lessons/running-sqlite/getting-started,""
+03A,Basic SQL,SELECT,basic-sql/select,code,/lessons/basic-sql/select,""
+03B,Basic SQL,INSERT,basic-sql/insert,code,/lessons/basic-sql/insert,""
+03C,Basic SQL,Tables,basic-sql/tables,code,/lessons/basic-sql/tables,""
+04A,Intermediate SQL,Relational Data,intermediate-sql/relational-data,table,/lessons/intermediate-sql/relational-data,""
+04B,Intermediate SQL,Other Types of Joins,intermediate-sql/other-types-of-joins,table,/lessons/intermediate-sql/other-types-of-joins,""
+04C,Intermediate SQL,Foreign Keys,intermediate-sql/foreign-keys,table,/lessons/intermediate-sql/foreign-keys,""
+04D,Intermediate SQL,Aggregation,intermediate-sql/aggregation,table,/lessons/intermediate-sql/aggregation,""
